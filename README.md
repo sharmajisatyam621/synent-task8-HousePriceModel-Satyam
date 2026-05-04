@@ -1,4 +1,4 @@
-# 🏠 Housing Data Analysis using KNN Imputation
+# 🏠 Housing Data Analysis
 
 ## 📌 Project Overview
 
